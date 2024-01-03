@@ -23,3 +23,9 @@ To run the tests
 npm test
 ```
 
+
+If you get Token Expired then hit the below route with "refreshToken" in the body
+
+```
+/api/auth/token
+```
