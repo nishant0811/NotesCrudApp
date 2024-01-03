@@ -1,11 +1,9 @@
-#INSTRUCTIONS
+# INSTRUCTIONS
 
-First install all the dependencies using 
+First install all the dependencies at the root of the directory using 
 ```
 npm i
 ```
-
-at the root of the directory
 
 To run the app 
 
@@ -24,3 +22,4 @@ To run the tests
 ```
 npm test
 ```
+
